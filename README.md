@@ -30,7 +30,7 @@ Note - if the server has any kind of duplicate entries of different domain it sh
 
             (base) [root@server Cleanup-hosts-redhat-satellite]# python delete_hosts.py serv
             Username :"migration"
-            Password :
+            Password : **********
             Deleting server subscriptions : serv.example1.com
             Disassociating Client Host : serv.example1.com
             Deleting the host from Satellite server : serv.example1.com
